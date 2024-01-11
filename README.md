@@ -8,4 +8,4 @@
 ### **书生·浦语针对以上流程的工具**
 - 书生 万卷--> InternLMTrain--> XTuner--> LMdeploy --> OpenCompass --> Lagent(详见脑图)
 
-![avatar](./src/lesson1.png)
+![avatar](stydynote/src/lesson1.png)
